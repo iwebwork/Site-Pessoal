@@ -5,3 +5,4 @@
 05/07/2018 NavBar criado,falta estilizar
 10/07/2018 Criado a logotipo e editada a foto que irá ser colocado no site
 14/07/2018 Recuperação do meu site, pois toquei de computador e não tinha acesso mais
+14/07/2018 Adcionado a logotipo,depois e so deixar posicionado corretamente
