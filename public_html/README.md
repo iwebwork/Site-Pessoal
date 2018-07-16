@@ -7,3 +7,5 @@
 14/07/2018 Recuperação do meu site, pois toquei de computador e não tinha acesso mais
 14/07/2018 Adcionado a logotipo,depois e so deixar posicionado corretamente
 16/07/2018 Atulização do bootstrapV4, pois o arquivo esta dando erro
+16/07/2018 Adcionada a pasta css
+16/07/2018 Adcionada o0 arquivo background.css para estilizar
